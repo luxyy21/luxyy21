@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 ### Recently Played on Spotify
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3472xnms2iq4nr7sozypvme&count=5&unique=true" alt="Spotify recently played" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3472xnrns2iq4nr7sozypvme&count=5&unique=true" alt="Spotify recently played" />
