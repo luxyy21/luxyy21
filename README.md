@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/luxyy21/luxyy21/snake-output/snake.svg" alt="Snake animation" />
 
-### 🎵 Now Playing on Spotify
+### Recently Played on Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31gi3472xnms2iq4nr7sozypvme&cover_image=true&theme=dark)](https://open.spotify.com/user/31gi3472xnms2iq4nr7sozypvme)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3472xnms2iq4nr7sozypvme&count=5&unique=true" alt="Spotify recently played" />
