@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Niko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luxyy21&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/luxyy21)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luxyy21&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&border=333333)](https://github.com/luxyy21)
