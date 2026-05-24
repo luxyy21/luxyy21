@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/luxyy21/luxyy21/snake-output/snake.svg" alt="Snake animation" />
 
-### Now Playing on Spotify
+### 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?user=31gi3472xnrns2iq4nr7sozypvme)](https://open.spotify.com/user/31gi3472xnrns2iq4nr7sozypvme)
+[![Spotify](https://github-readme-stats.vercel.app/api/spotify?background_color=000000&border_color=333333&link_color=1db954&text_color=ffffff)](https://open.spotify.com)
