@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/-%20-E34F26?style=plastic&logo=html5&logoColor=white&height=40" alt="HTML5" height="40"/>
+  <img src="https://img.shields.io/badge/-%20-1572B6?style=plastic&logo=css3&logoColor=white&height=40" alt="CSS3" height="40"/>
+  <img src="https://img.shields.io/badge/-%20-F7DF1E?style=plastic&logo=javascript&logoColor=black&height=40" alt="JavaScript" height="40"/>
+  <img src="https://img.shields.io/badge/-%20-777BB4?style=plastic&logo=php&logoColor=white&height=40" alt="PHP" height="40"/>
+  <img src="https://img.shields.io/badge/-%20-FF2D20?style=plastic&logo=laravel&logoColor=white&height=40" alt="Laravel" height="40"/>
+  <img src="https://img.shields.io/badge/-%20-000000?style=plastic&logo=nextdotjs&logoColor=white&height=40" alt="Next.js" height="40"/>
+</p>
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
