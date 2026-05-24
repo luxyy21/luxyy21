@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 ### 🎵 Now Playing on Spotify
 
-[![Spotify](https://github-readme-stats.vercel.app/api/spotify?background_color=000000&border_color=333333&link_color=1db954&text_color=ffffff)](https://open.spotify.com)
+[![Spotify](https://spotify-readme.vercel.app/api/now-playing?username=31gi3472xnms2iq4nr7sozypvme)](https://open.spotify.com/user/31gi3472xnms2iq4nr7sozypvme)
