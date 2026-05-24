@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzluxyy82@gmail.com)
+
+## GitHub Stats
+
+[![Niko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luxyy21&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/luxyy21)
