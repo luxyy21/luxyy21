@@ -36,3 +36,15 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luxyy21&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&border=333333)](https://github.com/luxyy21)
+
+<h2 align="left">Play games with me</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxyy21/luxyy21/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luxyy21/luxyy21/output/pacman-light.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luxyy21/luxyy21/output/pacman-dark.svg">
+</picture>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/luxyy21/luxyy21/output/snake.svg" alt="Snake animation" />
