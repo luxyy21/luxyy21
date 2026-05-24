@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/luxyy21/luxyy21/snake-output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gi3472xnrns2iq4nr7sozypvme&count=5&unique=true" alt="Spotify recently played" />
 </div>
