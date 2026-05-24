@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 ### Now Playing on Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31gi3472xnrns2iq4nr7sozypvme&cover_image=true&theme=dark)](https://open.spotify.com/user/31gi3472xnrns2iq4nr7sozypvme)
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?user=31gi3472xnrns2iq4nr7sozypvme)](https://open.spotify.com/user/31gi3472xnrns2iq4nr7sozypvme)
